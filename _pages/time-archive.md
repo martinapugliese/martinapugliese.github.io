@@ -5,6 +5,8 @@ title: "Posts in time"
 author_profile: true
 ---
 
+# This does not work fine to capture the year
+
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}

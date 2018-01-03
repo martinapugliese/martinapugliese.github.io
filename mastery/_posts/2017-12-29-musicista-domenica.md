@@ -38,7 +38,7 @@ In quegli anni frequentavo un corso di ballo HipHop in una palestra locale. In q
 
 ## M : quando hai iniziato a suonare la chitarra?
 
-<figure style="width: 200px" class="align-left">
+<figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/giovannifender.jpg" alt="">
   <figcaption>La Fender Stratocaster</figcaption>
 </figure> 
@@ -59,13 +59,18 @@ Ho frequentato un anno di chitarra hard-rock/metal suonando brani degli Eagles, 
 
 La mia tecnica era ancora embrionale e grazie a quest'anno di accademia ebbi la possibilità di crescere molto come musicista e come persona. 
 
-## M : hai mai sonato in qualche spettacolo dal vivo?
+## M : hai mai suonato in qualche spettacolo dal vivo?
 
 G : Il 24 giugno 2017 feci il mio primo live, si trattava del concerto di fine anno dell'accademia. Suonammo in un pub locale, il Sea Legend, uno dei pochissimi in zona che da sempre ospita spettacoli di musica live. Eseguimmo tutti i brani studiati in occasione delle sedute di musica di insieme, fu una bellissima esperienza, mi ha segnato in modo particolare.
 
 ## M: hai detto che hai frequentato solo 1 anno di accademia, successivamente cosa è accaduto?
 
-G : A settembre 2017 io ed un compagno di percorso accademico, Mirko Pirozzi, chitarrista, decidemmo di approfondire quanto studiato in musica di insieme formando una band tutta nostra. Cominciammo la ricerca e formazione del gruppo. Partimmo con l'idea di fare una Rock Cover Band coprendo i classici dagli anni '60 fino alla fine degli '80. Usando degli annunci cominciammo a provare con varie persone, e fu lì che conobbi Biagio Anzalone, bassista nonché cantante professionista. Biagio da poco suonava il basso, aveva sempre suonato la chitarra ed ovviamente cantato ma aveva il desiderio di suonare in una band come bassista ed era davvero bravo. Purtroppo dopo le prime prove decise di abbandonarci per altri progetti. Fu lui che mi iniziò allo strumento, fu suo il primo basso che approcciai, così per gioco.
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/giovanni3.jpg" alt="">
+</figure> 
+
+G : A settembre 2017 io ed un compagno di percorso accademico, **Mirko Pirozzi**, chitarrista, decidemmo di approfondire quanto studiato in musica di insieme formando una band tutta nostra. Cominciammo la ricerca e formazione del gruppo. Partimmo con l'idea di fare una Rock Cover Band coprendo i classici dagli anni '60 fino alla fine degli '80. Usando degli annunci cominciammo a provare con varie persone, e fu lì che conobbi Biagio Anzalone, bassista nonché cantante professionista. Biagio da poco suonava il basso, aveva sempre suonato la chitarra ed ovviamente cantato ma aveva il desiderio di suonare in una band come bassista ed era davvero bravo. Purtroppo dopo le prime prove decise di abbandonarci per altri progetti. Fu lui che mi iniziò allo strumento, fu suo il primo basso che approcciai, così per gioco.
 
 ## M : Finalmente siamo arrivati al periodo da bassista! raccontaci un po' come sono andate le cose.
 

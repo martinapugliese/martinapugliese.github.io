@@ -14,7 +14,7 @@ I'm Italian and also a great fan of linguistics and languages, some of my resear
 
 Apart from data, coding and language things, there's also posts over various random topics - places I've been to, leadership ideas, opinions, anything else coming to mind.
 
-All images/photos are mine unless otherwise specified, and credited. In some cases, I've used free-to-reuse imagery.
+All images/photos are mine unless otherwise specified, and credited. In some cases, I've used free-to-reuse imagery. My little avatar here on the side was made by my illustrator friend [ladyofshalott89](https://www.instagram.com/ladyofshalott89/).
 
 ### Some of my projects
 

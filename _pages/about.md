@@ -20,6 +20,8 @@ I am a physicist by studies and I've been working in/with **data science/ML/AI**
 * [in development] [CitiBreaking](https://bernomone.github.io/citybreaking/) data analyses and reflections on overtourism, again with the same friend
 * [upcoming] A book on German grammar, while I learn the language
 
+I am also a frantic [list-maker](https://martinapugliese.github.io/material/) and [quote-collector](https://martinapugliese.github.io/quotes/).
+
 ### Miscellanea
 
 * [Scientific Publications](https://github.com/martinapugliese/martinapugliese/blob/main/scientific_publications.md)

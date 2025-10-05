@@ -17,7 +17,7 @@ I am a physicist by studies and I've been working in/with **data science/ML/AI**
 * My data stories are [here](https://martinapugliese.github.io/categories/#data/)
 * [under restructuring] [Tales of Science and Data](https://github.com/martinapugliese/doodling-data-cards) - notes about data science, ML and stuff in between
 * [Askademic](https://github.com/martinapugliese/askademic) - an AI tool (agent) to help you find scientific research, summarise it, get answers, this was done with my friend [Bernardo](https://github.com/bernomone)
-* [in development] [CitiBreaking](https://bernomone.github.io/citybreaking/) data analyses and reflections on overtourism, again with the same friend
+* [in development] [CityBreaking](https://bernomone.github.io/citybreaking/) data analyses and reflections on overtourism, again with the same friend
 * [upcoming] A book on German grammar, while I learn the language
 
 I am also a frantic [list-maker](https://martinapugliese.github.io/material/) and [quote-collector](https://martinapugliese.github.io/quotes/).

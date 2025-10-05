@@ -9,16 +9,7 @@ toc_sticky: true
 toc_label: "Loose categories"
 ---
 
-Categories are just for keeping order and are continuously updated. The relation between themes and quotes is many:many, so this is a very imperfect representation.
-
-
-## Appearing vs. being
-
-> You can boast about anything if it's all you have. Maybe the less you have, the more you are required to boast.<br>
--- J Steinbeck, "East of Eden"
-
-> People like you to be something, preferably what they are.<br>
--- J Steinbeck, "East of Eden"
+Categories are just for keeping order and are semi-continuously updated. The relation between themes and quotes is many:many, so this is a very imperfect representation.
 
 
 ## Consumerism
@@ -67,12 +58,6 @@ Categories are just for keeping order and are continuously updated. The relation
 
 > "I lay in my sleeping bag, aching all over, and fervently hoped humans never made it to Mars. We didn't deserve a new world; we'd just wreck it all over again.<br>
 -- K Harris, "Lands of lost borders"
-
-
-## Exceptionalism 
-
-> A war comes always to someone else. In Salinas we were aware that the United States was the greatest and most powerful nation in the world. Every American was a rifleman by birth, and one American was worth ten or twenty foreigners in a fight. Pershing's expedition into Mexico after Villa had exploded one of our myths for a little while. We had truly believed that Mexicans can't shoot straight and besides were lazy and stupid. When our own Troop C came wearily back from the border they said that none of this was true. Mexicans could shoot straight, goddam it! And Villa's horsemen had outridden and outlasted our town boys. The two evenings a month of training had not toughened them very much. And last, the Mexicans seemed to have outthought and outambushed Black Jack Pershing. When the Mexicans were joined by their ally, dysentery, it was godawful. Some of our boys didn't really feel good again for years.<br> 
--- J Steinbeck, "East of Eden"
 
 
 ## Freedom & lack thereof
@@ -230,6 +215,7 @@ Categories are just for keeping order and are continuously updated. The relation
 > I actually think God is more of a brilliant marketing ploy.<br>
 -- Abe Weissman in "The Marvelous Mrs. Maisel"
 
+
 ## Good and evil
 
 > To a monster the norm must seem monstrous, since everyone is normal to himself. To the inner monster it must be even more obscure, since he has no visible thing to compare with others. To a man born without conscience, a soul-stricken man must seem ridiculous. To a criminal, honesty is foolish. You must not forget that a monster is only a variation, and that to a monster the norm is monstrous.<br>
@@ -262,19 +248,14 @@ Categories are just for keeping order and are continuously updated. The relation
 > The Battle of Kyiv taught me one thing - in the darkest moments, always act according to your highest moral principles. No matter how hard and scary that might be. It will be hard, but at the end of the day, it will always be the only right decision. The seemingly easiest way is always wrong. Deals with the devil made out of weakness and a desire to sweep trouble under the rug never end well.<br>
 -- I Ponomarenko, "I will show you how it was"
 
-## History 
-
-> Quando noi valutiamo oggi il militarismo nazifascista, lo facciamo dopo la sua sconfitta, con la sicurezza di chi ha combattuto e vinto. È difficile ricostruire lo stato d'animo di allora, di fronte al nazifascismo permanentemente vittorioso e trionfante, ...<br>
--- J Lussu, "Portrait"
-
-> The scheming of Britain, France and the United States over oil, politics and power helped create and fuel the problems of the Middle East for decades afterwards. Nations and peoples were used as assets or weapons. Lines were drawn in the sand, blown away and drawn again. All of this was done with precious little foresight about where it might lead<br>
--- A von Tunzelmann, "Blood and Sand" [talking about the Suez crisis of 1956]
-
-> The United States and the Soviet Union were two nations themselves formed by revolution, each of which revered its revolutionary forebears. Yet now that their founding revolutions had settled into power and were beginning to expand, neither seemed able to imagine that new revolutions might spring up against them. The believed they were different from the old European empires. They believed they were exceptional.
--- A von Tunzelmann, "Blood and Sand"
-
 
 ## Human relations 
+
+> You can boast about anything if it's all you have. Maybe the less you have, the more you are required to boast.<br>
+-- J Steinbeck, "East of Eden"
+
+> People like you to be something, preferably what they are.<br>
+-- J Steinbeck, "East of Eden"
 
 > I have often thought that perhaps formal good manners may be a cushion against heartbreak.<br>
 -- J Steinbeck, "East of Eden"
@@ -292,7 +273,7 @@ Categories are just for keeping order and are continuously updated. The relation
 -- J Steinbeck, "East of Eden"
 
 
-## Intelligence, knowledge, greatness
+## Intelligence & knowledge
 
 > Shrewdness tells you what you must not do because it would not be shrewd.<br>
 -- J Steinbeck, "East of Eden"
@@ -309,14 +290,23 @@ Categories are just for keeping order and are continuously updated. The relation
 > There you have the difference between greatness and mediocrity. It's not an uncommon disease. But it's nice for a mediocre man to know that greatness must be the loneliest state in the world." "I'd think there are degrees of greatness," Adam said. "I don't think so," said Samuel. "That would be like saying there is a little bigness. No. I believe when you come to that responsibility the hugeness and you are alone to make your choice. On one side you have warmth and companionship and sweet understanding, and on the other—cold, lonely greatness. There you make your choice. I'm glad I chose mediocrity, but how am I to say what reward might have come with the other?<br>
 -- J Steinbeck, "East of Eden"
 
-
-## Mathematics 
-
 > One of the most painful parts about teaching mathematics is seeing students damaged by the cult of the genius. The genius cult tells students it's not worth doing mathematics unless you're the best at mathematics, because those special few are the only ones whose contributions matter. We don't treat any other subject that way!<br>
 -- J Ellenberg, "How not to be wrong"
 
 
-## Power, social class, inequality, wealth
+## Power & history of
+
+> A war comes always to someone else. In Salinas we were aware that the United States was the greatest and most powerful nation in the world. Every American was a rifleman by birth, and one American was worth ten or twenty foreigners in a fight. Pershing's expedition into Mexico after Villa had exploded one of our myths for a little while. We had truly believed that Mexicans can't shoot straight and besides were lazy and stupid. When our own Troop C came wearily back from the border they said that none of this was true. Mexicans could shoot straight, goddam it! And Villa's horsemen had outridden and outlasted our town boys. The two evenings a month of training had not toughened them very much. And last, the Mexicans seemed to have outthought and outambushed Black Jack Pershing. When the Mexicans were joined by their ally, dysentery, it was godawful. Some of our boys didn't really feel good again for years.<br> 
+-- J Steinbeck, "East of Eden"
+
+> Quando noi valutiamo oggi il militarismo nazifascista, lo facciamo dopo la sua sconfitta, con la sicurezza di chi ha combattuto e vinto. È difficile ricostruire lo stato d'animo di allora, di fronte al nazifascismo permanentemente vittorioso e trionfante, ...<br>
+-- J Lussu, "Portrait"
+
+> The scheming of Britain, France and the United States over oil, politics and power helped create and fuel the problems of the Middle East for decades afterwards. Nations and peoples were used as assets or weapons. Lines were drawn in the sand, blown away and drawn again. All of this was done with precious little foresight about where it might lead<br>
+-- A von Tunzelmann, "Blood and Sand" [talking about the Suez crisis of 1956]
+
+> The United States and the Soviet Union were two nations themselves formed by revolution, each of which revered its revolutionary forebears. Yet now that their founding revolutions had settled into power and were beginning to expand, neither seemed able to imagine that new revolutions might spring up against them. The believed they were different from the old European empires. They believed they were exceptional.
+-- A von Tunzelmann, "Blood and Sand"
 
 > When power is scarce, a little of it is tempting.<br>
 -- M Atwood, "The Handmaid's tale"
@@ -383,6 +373,20 @@ Categories are just for keeping order and are continuously updated. The relation
 
 > This country of ours should be in the business of helping its people create wealth, but it should not be in the business of heavily subsidizing it. Why are we so focused on increasing the wealth of the already wealthy when millions languish in poverty?<br>
 -- M Desmond, "Poverty, by America"
+
+> If you don't want a man unhappy politically, don't give him two sides to a question to worry him; give him one. [...] Cram them full of non-combustible data, chock them so damned full of "facts" they feel stuffed, but absolutely "brilliant" with information. Then they'll feel they're thinking, they'll get a sense of *motion* without moving.<br>
+-- R Bradbury, Fahrenheit 451
+
+> We've started and won two atomic wars since 1960. Is it because we're having so much fun at home that we've forgotten the world? Is it because we're so rich and the rest of the world's so poor and we just don't care if they are?<br>
+-- R Bradbury, Fahrenheit 451
+
+> Do you know why books such as this as so important? Because they have quality. And what does the word quality mean? To me  it means texture. This book has pores. It has features. The book can go under the microscope. You'd find life under the glass, streaming past in infinite profusion. The more pores, the more truthfully recorded details of life per square inch you can get on a sheet of paper, the more "literary" you are.<br>
+-- R Bradbury, Fahrenheit 451
+
+> Where do we get from here? would books help us? Only if the third necessary thing could be given us. Number one, quality of information. Number two: leisure to digest it. and number three: the right to carry out actions based on what we learn from the intersection of the first two.<br>
+-- R Bradbury, Fahrenheit 451
+
+</details>
 
 ## Society
 

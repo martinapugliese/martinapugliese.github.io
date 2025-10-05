@@ -9,16 +9,32 @@ toc_sticky: true
 toc_label: "Loose categories"
 ---
 
-Categories are just for keeping order and are continuously updated. The relation between themes and quotes is many:many, so this is a very imperfect representation.
+Categories are just for keeping order and are semi-continuously updated. The relation between themes and quotes is many:many, so this is a very imperfect representation.
 
+## Adventure
 
-## Appearing vs. being
+> At a time when, all too often, our daily lives are unwittingly filled with activities that don’t stay long in the mind, small overnight adventures make memories. There’s no cheaper and more accessible way to reinstill a sense of wonder for local places that you’ve foolishly convinced yourself are wonder-less.<br>
+-- A McNuff, "Bedtime Adventure Stories for Grown Ups"
 
-> You can boast about anything if it's all you have. Maybe the less you have, the more you are required to boast.<br>
+> things going tits-up is the mark of a great adventure. Tell me a story about ‘the time it all went right’ and I’ll get bored halfway through. So why we always expect the greatest adventure of all – life – to go to plan is beyond me.<br>
+-- A McNuff, "Bedtime Adventure Stories for Grown Ups"
+
+> Adventure is more about mindset than where in the world you are, after all. You can have the most magical adventure in the space of an afternoon, an evening, or even overnight in the middle of the week – experiences that the British adventurer Alastair Humphreys has labelled 'microadventures'.<br>
+-- A McNuff, "Bedtime Adventure Stories for Grown Ups"
+
+## Beauty & Creativity
+
+> Our species is the only creative species, and it has only one creative instrument, the individual mind and spirit of a man. Nothing was ever created by two men. There are no good collaborations, whether in music, in art, in poetry, in mathematics, in philosophy. Once the miracle of creation has taken place, the group can build and extend it, but the group never invents anything. The preciousness lies in the lonely mind of a man.<br>
 -- J Steinbeck, "East of Eden"
 
-> People like you to be something, preferably what they are.<br>
+> You are one of the rare people who can separate your observation from your preconception. You see what is, where most people see what they expect.<br>
 -- J Steinbeck, "East of Eden"
+
+> In human affairs of danger and delicacy successful conclusion is sharply limited by hurry. So often men trip by being in a rush. If one were properly to perform a difficult and subtle act, he should first inspect the end to be achieved and then, once he had accepted the end as desirable, he should forget it completely and concentrate solely on the means. By this method he would not be moved to false action by anxiety or hurry or fear. Very few people learn this.<br>
+-- J Steinbeck, "East of Eden"
+
+> All the things that Napoleon stood for seemed so trivial at that moment, his hero seemed so petty in his squalid vanity and triumphalism, compared with that lofty, righteous and kindly sky ...<br>
+-- L Tolstoy, "War and Peace" (Andrei under the lofty sky)
 
 
 ## Consumerism
@@ -30,18 +46,6 @@ Categories are just for keeping order and are continuously updated. The relation
 -- P K Dick, "A Scanner Darkly "
 
 
-## Creativity
-
-> Our species is the only creative species, and it has only one creative instrument, the individual mind and spirit of a man. Nothing was ever created by two men. There are no good collaborations, whether in music, in art, in poetry, in mathematics, in philosophy. Once the miracle of creation has taken place, the group can build and extend it, but the group never invents anything. The preciousness lies in the lonely mind of a man.<br>
--- J Steinbeck, "East of Eden"
-
-> You are one of the rare people who can separate your observation from your preconception. You see what is, where most people see what they expect.<br>
--- J Steinbeck, "East of Eden"
-
-> In human affairs of danger and delicacy successful conclusion is sharply limited by hurry. So often men trip by being in a rush. If one were properly to perform a difficult and subtle act, he should first inspect the end to be achieved and then, once he had accepted the end as desirable, he should forget it completely and concentrate solely on the means. By this method he would not be moved to false action by anxiety or hurry or fear. Very few people learn this.<br>
--- J Steinbeck, "East of Eden"
-
-
 ## Diversity
 
 > We know from our own society that humans are diverse: people come in all shapes and sizes, individuals can have all sorts of traits and interests and gender manifests in multiple ways. Yet we look to historical and archaeological records to do something magical: we expect them to show worlds in which every single person followed strictly defined social patterns and never deviated from them.<br>
@@ -51,15 +55,6 @@ Categories are just for keeping order and are continuously updated. The relation
 -- A Saini, "The Patriarchs"
 
 
-## Emotions 
-
-> All great and precious things are lonely.<br>
--- J Steinbeck, "East of Eden"
-
-> There are no ugly questions except those clothed in condescension.<br>
--- J Steinbeck, "East of Eden"
-
-
 ## Environment
 
 > for if people see themselves as distinct and separate from the natural world, they believe they risk nothing in destroying it. What Thoreau was really saying was that he'd travelled *wildly* in Concord, that you can travel wildly just about anywhere. The wildness of a place or experience" isn't in the place or experience, necessarily, but in you - your capacity to see it, feel it.<br>
@@ -67,12 +62,6 @@ Categories are just for keeping order and are continuously updated. The relation
 
 > "I lay in my sleeping bag, aching all over, and fervently hoped humans never made it to Mars. We didn't deserve a new world; we'd just wreck it all over again.<br>
 -- K Harris, "Lands of lost borders"
-
-
-## Exceptionalism 
-
-> A war comes always to someone else. In Salinas we were aware that the United States was the greatest and most powerful nation in the world. Every American was a rifleman by birth, and one American was worth ten or twenty foreigners in a fight. Pershing's expedition into Mexico after Villa had exploded one of our myths for a little while. We had truly believed that Mexicans can't shoot straight and besides were lazy and stupid. When our own Troop C came wearily back from the border they said that none of this was true. Mexicans could shoot straight, goddam it! And Villa's horsemen had outridden and outlasted our town boys. The two evenings a month of training had not toughened them very much. And last, the Mexicans seemed to have outthought and outambushed Black Jack Pershing. When the Mexicans were joined by their ally, dysentery, it was godawful. Some of our boys didn't really feel good again for years.<br> 
--- J Steinbeck, "East of Eden"
 
 
 ## Freedom & lack thereof
@@ -221,6 +210,8 @@ Categories are just for keeping order and are continuously updated. The relation
 > When Oldspeak had been once and for all superseded, the last link with the past would have been severed. History had already been rewritten, but fragments of the literature of the past survived here and there, imperfectly censored, and so long as one retained one’s knowledge of Oldspeak it was possible to read them.<br>
 -- G Orwell, "1984"
 
+> It is a peculiar hallmark of the American economy that you can produce a dangerous product and effectively off-load any legal liability for whatever destruction that product may cause by pointing to the individual responsibility of the consumer.<br>
+-- P R Keefe, "Empire of Pain" 
 
 ## God
 
@@ -230,7 +221,8 @@ Categories are just for keeping order and are continuously updated. The relation
 > I actually think God is more of a brilliant marketing ploy.<br>
 -- Abe Weissman in "The Marvelous Mrs. Maisel"
 
-## Good and evil
+
+## Good, evil & futility
 
 > To a monster the norm must seem monstrous, since everyone is normal to himself. To the inner monster it must be even more obscure, since he has no visible thing to compare with others. To a man born without conscience, a soul-stricken man must seem ridiculous. To a criminal, honesty is foolish. You must not forget that a monster is only a variation, and that to a monster the norm is monstrous.<br>
 -- J Steinbeck, "East of Eden"
@@ -262,19 +254,64 @@ Categories are just for keeping order and are continuously updated. The relation
 > The Battle of Kyiv taught me one thing - in the darkest moments, always act according to your highest moral principles. No matter how hard and scary that might be. It will be hard, but at the end of the day, it will always be the only right decision. The seemingly easiest way is always wrong. Deals with the devil made out of weakness and a desire to sweep trouble under the rug never end well.<br>
 -- I Ponomarenko, "I will show you how it was"
 
-## History 
-
-> Quando noi valutiamo oggi il militarismo nazifascista, lo facciamo dopo la sua sconfitta, con la sicurezza di chi ha combattuto e vinto. È difficile ricostruire lo stato d'animo di allora, di fronte al nazifascismo permanentemente vittorioso e trionfante, ...<br>
--- J Lussu, "Portrait"
-
-> The scheming of Britain, France and the United States over oil, politics and power helped create and fuel the problems of the Middle East for decades afterwards. Nations and peoples were used as assets or weapons. Lines were drawn in the sand, blown away and drawn again. All of this was done with precious little foresight about where it might lead<br>
--- A von Tunzelmann, "Blood and Sand" [talking about the Suez crisis of 1956]
-
-> The United States and the Soviet Union were two nations themselves formed by revolution, each of which revered its revolutionary forebears. Yet now that their founding revolutions had settled into power and were beginning to expand, neither seemed able to imagine that new revolutions might spring up against them. The believed they were different from the old European empires. They believed they were exceptional.
--- A von Tunzelmann, "Blood and Sand"
-
+> Looking Napoleon straight in the eye, Prince Andrey mused on the insignificance of greatness, on the insignificance of human life, the meaning of which no one could understand, and most of all the insignificance of death, which no living person could make sense of or explain.<br>
+-- L Tolstoy, "War and Peace"
 
 ## Human relations 
+
+> All great and precious things are lonely.<br>
+-- J Steinbeck, "East of Eden"
+
+> in all the time we spend making plans, we never stop to question whether things going as expected is actually what matters most.<br>
+-- A McNuff, "Bedtime Adventure Stories for Grown Ups"
+
+> There are no ugly questions except those clothed in condescension.<br>
+-- J Steinbeck, "East of Eden"
+
+> The church and the whorehouse arrived in the Far West simultaneously. And each would have been horrified to think it was a different facet of the same thing. But surely they were both intended to accomplish the same thing: the singing, the devotion, the poetry of the churches took a man out of his bleakness for a time, and so did the brothels.<br>
+-- J Steinbeck, "East of Eden"
+
+> Whenever a human has a nickname it is a proof that the name given him was wrong.<br>
+-- J Steinbeck, "East of Eden"
+
+> It takes great courage to back truth unacceptable to our times.<br>
+-- J Steinbeck, "East of Eden"
+
+> Isn't it strange that today we have forgotten this? We remember World War I as quick victory, with flags and bands, marching and horseplay and returning soldiers, fights in the barrooms with the goddam Limeys who thought they had won the war. How quickly we forgot that in that winter Ludendorff could not be beaten and that many people were preparing in their minds and spirits for a lost war.<br>
+-- J Steinbeck, "East of Eden"
+
+> I hope I'm not so small-souled as to take satisfaction in being missed.<br>
+-- J Steinbeck, "East of Eden"
+
+> "And I like large parties. They're so intimate. At small parties there isn't any privacy."<br>
+-- F S Fitzgerald, "The great Gatsby"
+
+> "Everyone suspects himself of at least one of the cardinal virtues"<br>
+-- F S Fitzgerald, "The great Gatsby"
+
+> "and I do not know, Mrs Elton, whether the uncertainty of our meetings, the sort of constant expectation there will be of his coming today or tomorrow, and at any hour, may not be more friendly to happiness than having him actually in the house. It think it is so. I think it is the state of mind which gives most spirit and delight."<br>
+-- J Austen, "Emma"
+
+> Over millennia, we've been pushed gradually into believing that there are just a few ways in which we can live.<br>
+-- A Saini, "The Patriarchs"
+
+> they think that, at best, our vocation amounts to a butchering sort of business; and that when actively engaged therein, we are surrounded by all manner of defilements. Butchers we are, that is true. But butchers, also, and butchers of the bloodiest badge have been all Martial Commanders whom the world invariably delights to honor.<br>
+-- H Melville, "Moby Dick"
+
+> For we are all killers, on land and on sea; Bonapartes and Sharks included.<br>
+-- H Melville, "Moby Dick"
+
+> Has there ever been another time, in the full sweep of human history, when so many people had so much and yet felt so deprived and anxious?<br>
+-- M Desmond, "Poverty, by America"
+
+> The truth can cause a lot of trouble for those who are not supposed to know it.<br>
+-- M Atwood, "The Testaments"
+
+> You can boast about anything if it's all you have. Maybe the less you have, the more you are required to boast.<br>
+-- J Steinbeck, "East of Eden"
+
+> People like you to be something, preferably what they are.<br>
+-- J Steinbeck, "East of Eden"
 
 > I have often thought that perhaps formal good manners may be a cushion against heartbreak.<br>
 -- J Steinbeck, "East of Eden"
@@ -291,8 +328,16 @@ Categories are just for keeping order and are continuously updated. The relation
 > I guess we were like a tough but inexperienced little boy who gets punched in the nose in the first flurry and it hurts and we wished it was over.<br>
 -- J Steinbeck, "East of Eden"
 
+> It’s only when things fall apart that you begin to see the true measure of a friend.<br>
+-- A McNuff, "Bedtime Adventure Stories for Grown Ups"
 
-## Intelligence, knowledge, greatness
+> The effect of Lady Ann’s departure upon her former husband did not interest society – which indeed is unconcerned with the aftermath of sensation.<br>
+-- J Le Carré, "Call for the Dead"
+
+> Wisdom has no need of violence.<br>
+-- L Tolstoy, "War and Peace"
+
+## Intelligence & knowledge
 
 > Shrewdness tells you what you must not do because it would not be shrewd.<br>
 -- J Steinbeck, "East of Eden"
@@ -309,14 +354,23 @@ Categories are just for keeping order and are continuously updated. The relation
 > There you have the difference between greatness and mediocrity. It's not an uncommon disease. But it's nice for a mediocre man to know that greatness must be the loneliest state in the world." "I'd think there are degrees of greatness," Adam said. "I don't think so," said Samuel. "That would be like saying there is a little bigness. No. I believe when you come to that responsibility the hugeness and you are alone to make your choice. On one side you have warmth and companionship and sweet understanding, and on the other—cold, lonely greatness. There you make your choice. I'm glad I chose mediocrity, but how am I to say what reward might have come with the other?<br>
 -- J Steinbeck, "East of Eden"
 
-
-## Mathematics 
-
 > One of the most painful parts about teaching mathematics is seeing students damaged by the cult of the genius. The genius cult tells students it's not worth doing mathematics unless you're the best at mathematics, because those special few are the only ones whose contributions matter. We don't treat any other subject that way!<br>
 -- J Ellenberg, "How not to be wrong"
 
 
-## Power, social class, inequality, wealth
+## Power & history of
+
+> A war comes always to someone else. In Salinas we were aware that the United States was the greatest and most powerful nation in the world. Every American was a rifleman by birth, and one American was worth ten or twenty foreigners in a fight. Pershing's expedition into Mexico after Villa had exploded one of our myths for a little while. We had truly believed that Mexicans can't shoot straight and besides were lazy and stupid. When our own Troop C came wearily back from the border they said that none of this was true. Mexicans could shoot straight, goddam it! And Villa's horsemen had outridden and outlasted our town boys. The two evenings a month of training had not toughened them very much. And last, the Mexicans seemed to have outthought and outambushed Black Jack Pershing. When the Mexicans were joined by their ally, dysentery, it was godawful. Some of our boys didn't really feel good again for years.<br> 
+-- J Steinbeck, "East of Eden"
+
+> Quando noi valutiamo oggi il militarismo nazifascista, lo facciamo dopo la sua sconfitta, con la sicurezza di chi ha combattuto e vinto. È difficile ricostruire lo stato d'animo di allora, di fronte al nazifascismo permanentemente vittorioso e trionfante, ...<br>
+-- J Lussu, "Portrait"
+
+> The scheming of Britain, France and the United States over oil, politics and power helped create and fuel the problems of the Middle East for decades afterwards. Nations and peoples were used as assets or weapons. Lines were drawn in the sand, blown away and drawn again. All of this was done with precious little foresight about where it might lead<br>
+-- A von Tunzelmann, "Blood and Sand" [talking about the Suez crisis of 1956]
+
+> The United States and the Soviet Union were two nations themselves formed by revolution, each of which revered its revolutionary forebears. Yet now that their founding revolutions had settled into power and were beginning to expand, neither seemed able to imagine that new revolutions might spring up against them. The believed they were different from the old European empires. They believed they were exceptional.
+-- A von Tunzelmann, "Blood and Sand"
 
 > When power is scarce, a little of it is tempting.<br>
 -- M Atwood, "The Handmaid's tale"
@@ -329,6 +383,9 @@ Categories are just for keeping order and are continuously updated. The relation
 
 > The problem with borders, I was beginning to realize, isn't that they are monstrous, offensive and unnatural constructions. The problem with borders is the same as the problem with evil that Hannah Arendt identified: their banality. We subconsciously accept them as part of the landscape - at least those of us privileged by them, granted meaningful passports - because they articulate our deepest, least exalted desire, for prestige and permanence, order and security, always at the cost of someone or something else.<br>
 -- K Harris, "Lands of lost borders"
+
+> It has happened to choruses of encouragement from the West, primarily from Silvio Berlusconi, who appears to have fallen in love with Putin. He is Putin’s main European champion, but Putin also enjoys the support of Blair, Schroeder and Chirac, and receives no discouragement from the transatlantic junior Bush.<br>
+-- A Politkovskaya, "Putin's Russia" (on the West and the rise of Putin, 2004 elections)
 
 > "Maybe everyone is too rich. I have noticed that there is no dissatisfaction like that of the rich. Feed a man, clothe him, put him in a good house, and he will die of despair."<br>
 -- J Steinbeck, "East of Eden"
@@ -384,46 +441,23 @@ Categories are just for keeping order and are continuously updated. The relation
 > This country of ours should be in the business of helping its people create wealth, but it should not be in the business of heavily subsidizing it. Why are we so focused on increasing the wealth of the already wealthy when millions languish in poverty?<br>
 -- M Desmond, "Poverty, by America"
 
-## Society
+> If you don't want a man unhappy politically, don't give him two sides to a question to worry him; give him one. [...] Cram them full of non-combustible data, chock them so damned full of "facts" they feel stuffed, but absolutely "brilliant" with information. Then they'll feel they're thinking, they'll get a sense of *motion* without moving.<br>
+-- R Bradbury, "Fahrenheit 451"
 
-> The church and the whorehouse arrived in the Far West simultaneously. And each would have been horrified to think it was a different facet of the same thing. But surely they were both intended to accomplish the same thing: the singing, the devotion, the poetry of the churches took a man out of his bleakness for a time, and so did the brothels.<br>
--- J Steinbeck, "East of Eden"
+> We've started and won two atomic wars since 1960. Is it because we're having so much fun at home that we've forgotten the world? Is it because we're so rich and the rest of the world's so poor and we just don't care if they are?<br>
+-- R Bradbury, "Fahrenheit 451"
 
-> Whenever a human has a nickname it is a proof that the name given him was wrong.<br>
--- J Steinbeck, "East of Eden"
+> Do you know why books such as this as so important? Because they have quality. And what does the word quality mean? To me  it means texture. This book has pores. It has features. The book can go under the microscope. You'd find life under the glass, streaming past in infinite profusion. The more pores, the more truthfully recorded details of life per square inch you can get on a sheet of paper, the more "literary" you are.<br>
+-- R Bradbury, "Fahrenheit 451"
 
-> It takes great courage to back truth unacceptable to our times.<br>
--- J Steinbeck, "East of Eden"
+> Where do we get from here? would books help us? Only if the third necessary thing could be given us. Number one, quality of information. Number two: leisure to digest it. and number three: the right to carry out actions based on what we learn from the intersection of the first two.<br>
+-- R Bradbury, "Fahrenheit 451"
 
-> Isn't it strange that today we have forgotten this? We remember World War I as quick victory, with flags and bands, marching and horseplay and returning soldiers, fights in the barrooms with the goddam Limeys who thought they had won the war. How quickly we forgot that in that winter Ludendorff could not be beaten and that many people were preparing in their minds and spirits for a lost war.<br>
--- J Steinbeck, "East of Eden"
+> ‘If everybody fought for nothing but his own convictions, there wouldn’t be any wars,’ he said.<br>
+-- L Tolstoy, "War and Peace"
 
-> I hope I'm not so small-souled as to take satisfaction in being missed.<br>
--- J Steinbeck, "East of Eden"
-
-> "And I like large parties. They're so intimate. At small parties there isn't any privacy."<br>
--- F S Fitzgerald, "The great Gatsby"
-
-> "Everyone suspects himself of at least one of the cardinal virtues"<br>
--- F S Fitzgerald, "The great Gatsby"
-
-> "and I do not know, Mrs Elton, whether the uncertainty of our meetings, the sort of constant expectation there will be of his coming today or tomorrow, and at any hour, may not be more friendly to happiness than having him actually in the house. It think it is so. I think it is the state of mind which gives most spirit and delight."<br>
--- J Austen, "Emma"
-
-> Over millennia, we've been pushed gradually into believing that there are just a few ways in which we can live.<br>
--- A Saini, "The Patriarchs"
-
-> they think that, at best, our vocation amounts to a butchering sort of business; and that when actively engaged therein, we are surrounded by all manner of defilements. Butchers we are, that is true. But butchers, also, and butchers of the bloodiest badge have been all Martial Commanders whom the world invariably delights to honor.<br>
--- H Melville, "Moby Dick"
-
-> For we are all killers, on land and on sea; Bonapartes and Sharks included.<br>
--- H Melville, "Moby Dick"
-
-> Has there ever been another time, in the full sweep of human history, when so many people had so much and yet felt so deprived and anxious?<br>
--- M Desmond, "Poverty, by America"
-
-> The truth can cause a lot of trouble for those who are not supposed to know it.<br>
--- M Atwood, "The Testaments"
+> Che poi Medioevo lo dite voi, io dico milleduecentottantaquattro, poi voi lo chiamerete come vi pare, le epoche gli si dà nome dopo. Le dittature, ad esempio, se ne parla male solo dopo, intanto tutti se le puppano. Volete vedere?<br>
+-- S Benni, "Le Beatrici"
 
 ## Time
 

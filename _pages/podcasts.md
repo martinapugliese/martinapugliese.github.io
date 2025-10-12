@@ -19,10 +19,10 @@ AFAIK there isn't a tool you can use to review podcasts (something à la goodrea
 
 ## History & Stories
 
-* Empire - by A Anand & W Dalrymple, this is great. The history of empires, in seasons
+* Empire - by A Anand & W Dalrymple, it's great and good fun. The history of empires, in seasons
 * The rest is history - T Holland & D Sandbrook
 * [The Bomb](https://www.bbc.co.uk/sounds/brand/p08llv8n) (2 seasons), BBC - self-explanatory, how did we get to the atomic & stories around this
-* [ITA] quelli della serie "Hai presente?": [Hai presente il 25 aprile?](https://choramedia.com/podcast/hai-presente-il-25-aprile/), [Hai presente la marcia su Roma?](https://choramedia.com/podcast/hai-presente-la-marcia-su-roma/), [Hai presente l'8 settembre?](https://choramedia.com/podcast/hai-presente-l8-settembre/)
+* [ITA] Quelli della serie "Hai presente?": [Hai presente il 25 aprile?](https://choramedia.com/podcast/hai-presente-il-25-aprile/), [Hai presente la marcia su Roma?](https://choramedia.com/podcast/hai-presente-la-marcia-su-roma/), [Hai presente l'8 settembre?](https://choramedia.com/podcast/hai-presente-l8-settembre/)
 * [The big steal](https://www.thebigstealpodcast.com/) (finished?): by G Esler, a very interesting reconstruction of the aftermath of the fall of the Soviet Union that led today's plutocracy
 * [Wind of change](https://crooked.com/podcast-series/wind-of-change/) (2020, finished): a bit out there but I went with it as it's by P Radden Keffe, whose investigative journalism work I appreciate. It follows a crazy rumour whereby Scorpion's "Wind of change" was written/commissioned by the CIA for propaganda. It's interesting - I hate conspiracies and would have never chosen this but despite the wild story you learn a lot about the times
 * [ITA] [L'invasione](https://www.ilpost.it/podcasts/l-invasione/) - un podcast in 5 puntate (de Il Post) sulle lingue indoeuropee e la loro storia, bellissimo

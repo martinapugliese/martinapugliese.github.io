@@ -3,7 +3,7 @@ title: Excellent dystopias in literature - A Scanner Darkly
 tags:
   - books
   - literature
-excerpt: Some thoughts on a novel that has many layers
+excerpt: Some thoughts on a novel with many layers
 ---
 
 Sometimes, my fiction-reading follows a trail of books of the same genre or with somewhat similar motifs. Lately, the shared motif was being dystopias and I've read these ones in quick succession:

@@ -22,7 +22,17 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 > Adventure is more about mindset than where in the world you are, after all. You can have the most magical adventure in the space of an afternoon, an evening, or even overnight in the middle of the week – experiences that the British adventurer Alastair Humphreys has labelled 'microadventures'.<br>
 -- A McNuff, "Bedtime Adventure Stories for Grown Ups"
 
-## Beauty & Creativity
+
+## Consumerism
+
+> When our food and clothing and housing all are born in the complication of mass production, mass method is bound to get into our thinking and to eliminate all other thinking. In our time mass or collective production has entered our economics, our politics, and even our religion, so that some nations have substituted the idea collective for the idea God.<br>
+-- J Steinbeck, "East of Eden"
+
+> In Southern California it didn't make any difference anyhow where you went: there was always the same McDonaldburger place over and over; like a circular strip that turned past you as you pretended to go somewhere. And when finally you got hungry and went to the McDonaldburger place and bought a McDonald's hamburger, it was the one they sold you last time and the time before that and so forth, back to before you were born, and in addition bad people - liars - said it was made out of turkey gizzards anyhow. They had by now, according to their sign, sold the same original burger fifty billion times. He wondered it if was to the same person. Life in Anaheim, California, was a commercial for itself, endlessly replayed. Nothing changed; it just spread out farther and farther in the form of neon ooze. What there was always more of had been congealed into permanence long ago, as if the automatic factory that cranked out these objects had jammed in the _on_ position. How the land became plastic, he thought, remembering the fairly tale "How the Sea became Salt.". SOmeday, he thought, it'll be mandatory that we all sell the McDonald's hamburger as well as buy it; we'll sell it back and forth to each other forever from our living room. That way we won't even have to go outside.<br>
+-- P K Dick, "A Scanner Darkly "
+
+
+## Creativity & Wonder
 
 > Our species is the only creative species, and it has only one creative instrument, the individual mind and spirit of a man. Nothing was ever created by two men. There are no good collaborations, whether in music, in art, in poetry, in mathematics, in philosophy. Once the miracle of creation has taken place, the group can build and extend it, but the group never invents anything. The preciousness lies in the lonely mind of a man.<br>
 -- J Steinbeck, "East of Eden"
@@ -35,15 +45,6 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 
 > All the things that Napoleon stood for seemed so trivial at that moment, his hero seemed so petty in his squalid vanity and triumphalism, compared with that lofty, righteous and kindly sky ...<br>
 -- L Tolstoy, "War and Peace" (Andrei under the lofty sky)
-
-
-## Consumerism
-
-> When our food and clothing and housing all are born in the complication of mass production, mass method is bound to get into our thinking and to eliminate all other thinking. In our time mass or collective production has entered our economics, our politics, and even our religion, so that some nations have substituted the idea collective for the idea God.<br>
--- J Steinbeck, "East of Eden"
-
-> In Southern California it didn't make any difference anyhow where you went: there was always the same McDonaldburger place over and over; like a circular strip that turned past you as you pretended to go somewhere. And when finally you got hungry and went to the McDonaldburger place and bought a McDonald's hamburger, it was the one they sold you last time and the time before that and so forth, back to before you were born, and in addition bad people - liars - said it was made out of turkey gizzards anyhow. They had by now, according to their sign, sold the same original burger fifty billion times. He wondered it if was to the same person. Life in Anaheim, California, was a commercial for itself, endlessly replayed. Nothing changed; it just spread out farther and farther in the form of neon ooze. What there was always more of had been congealed into permanence long ago, as if the automatic factory that cranked out these objects had jammed in the _on_ position. How the land became plastic, he thought, remembering the fairly tale "How the Sea became Salt.". SOmeday, he thought, it'll be mandatory that we all sell the McDonald's hamburger as well as buy it; we'll sell it back and forth to each other forever from our living room. That way we won't even have to go outside.<br>
--- P K Dick, "A Scanner Darkly "
 
 
 ## Diversity
@@ -90,13 +91,13 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 > If the Party could thrust its hand into the past and say of this or that event, it never happened — that, surely, was more terrifying than mere torture and death?<br>
 -- G Orwell, "1984"
 
-> ’Who controls the past,’ ran the Party slogan, ’controls the future: who controls the present controls the past.’<br>
+> 'Who controls the past,' ran the Party slogan, 'controls the future: who controls the present controls the past.'<br>
 -- G Orwell, "1984"
 
 > To know and not to know, to be conscious of complete truthfulness while telling carefully constructed lies, to hold simultaneously two opinions which cancelled out, knowing them to be contradictory and believing in both of them, to use logic against logic, to repudiate morality while laying claim to it, to believe that democracy was impossible and that the Party was the guardian of democracy, to forget whatever it was necessary to forget, then to draw it back into memory again at the moment when it was needed, and then promptly to forget it again: and above all, to apply the same process to the process itself. That was the ultimate subtlety: consciously to induce unconsciousness, and then, once again, to become unconscious of the act of hypnosis you had just performed.<br>
 -- G Orwell, "1984"
 
-> ’Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it. Every concept that can ever be needed, will be expressed by exactly one word, with its meaning rigidly defined and all its subsidiary meanings rubbed out and forgotten.<br>
+> Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it. Every concept that can ever be needed, will be expressed by exactly one word, with its meaning rigidly defined and all its subsidiary meanings rubbed out and forgotten.<br>
 -- G Orwell, "1984"
 
 > The whole climate of thought will be different. In fact there will be no thought, as we understand it now. Orthodoxy means not thinking — not needing to think. Orthodoxy is unconsciousness.<br>
@@ -213,6 +214,9 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 > It is a peculiar hallmark of the American economy that you can produce a dangerous product and effectively off-load any legal liability for whatever destruction that product may cause by pointing to the individual responsibility of the consumer.<br>
 -- P R Keefe, "Empire of Pain" 
 
+> A really efficient totalitarian state would be one in which the all-powerful executive of political bosses and their army of managers control a population of slaves who do not have to be coerced, because they love their servitude.<br>
+-- A Huxley, 1946 preface to "Brave New World"
+
 ## God
 
 > The proofs that God does not exist are very strong, but in lots of people they are not as strong as the feeling that He does.<br>
@@ -220,6 +224,9 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 
 > I actually think God is more of a brilliant marketing ploy.<br>
 -- Abe Weissman in "The Marvelous Mrs. Maisel"
+
+> A lot of people seem to believe in a big-daddy-God, of a big-cop-God or a big-king-God. They believe in a kind of super-person. A few believe God is another word for nature. And nature turns out to mean just about anything they happen not to understand or feel in control of.<br>
+-- O Butler, "Parable of the Sower"
 
 
 ## Good, evil & futility
@@ -256,6 +263,9 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 
 > Looking Napoleon straight in the eye, Prince Andrey mused on the insignificance of greatness, on the insignificance of human life, the meaning of which no one could understand, and most of all the insignificance of death, which no living person could make sense of or explain.<br>
 -- L Tolstoy, "War and Peace"
+
+> Human beings are good at creating hells for themselves even out of richness.<br>
+-- O Butler, "Parable of the Sower"
 
 ## Human relations 
 
@@ -331,7 +341,7 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 > It’s only when things fall apart that you begin to see the true measure of a friend.<br>
 -- A McNuff, "Bedtime Adventure Stories for Grown Ups"
 
-> The effect of Lady Ann’s departure upon her former husband did not interest society – which indeed is unconcerned with the aftermath of sensation.<br>
+> The effect of Lady Ann's departure upon her former husband did not interest society – which indeed is unconcerned with the aftermath of sensation.<br>
 -- J Le Carré, "Call for the Dead"
 
 > Wisdom has no need of violence.<br>
@@ -356,6 +366,9 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 
 > One of the most painful parts about teaching mathematics is seeing students damaged by the cult of the genius. The genius cult tells students it's not worth doing mathematics unless you're the best at mathematics, because those special few are the only ones whose contributions matter. We don't treat any other subject that way!<br>
 -- J Ellenberg, "How not to be wrong"
+
+> Prodigy is, at its essence, adaptability and persistent, positive obsession. Without persistence, what remains is an enthusiasm of the moment. Without adaptability, what remains may be channeled into destructive fanaticism. Without positive obsession, there is nothing at all.<br>
+-- O Butler, "Parable of the Sower"
 
 
 ## Power & history of

@@ -17,6 +17,8 @@ I have also started writing a Gitbook about the grammar of the German language, 
 
 Another thing I'm doing is evaluating new tools for keeping links, bookmarks and general internet stuff I want to keep.
 
+Ah, I've started a project (as a blog) on data analysis about overtourism - [here](https://bernomone.github.io/citybreaking/)
+
 # Late Summer 2025
 
 German learning, started with Spanish, reading a bunch of dystopias, etc.

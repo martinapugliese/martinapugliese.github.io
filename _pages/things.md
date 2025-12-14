@@ -20,7 +20,7 @@ I've been using **Pocket Casts** for ages, it's good. [Here]({{site.url}}/podcas
 
 ## Tools
 
-* I use *Readwise* for both RSS feeds and newsletters, it's really useful
+* I use *Raindrop* to keep bookmarks, links I care about, follow blogs (manually, as in I store the link there and go read them when I have mental space. I've discovered the hard way that I can't really keep up with feeds and newsletters)
 * I have my own newsletter on *Buttondown* - read [here](https://martinapugliese.github.io/doodling-data-reloaded/) about why I moved away from Substack
 * **Recipes**: the [CookBook app](https://thecookbookapp.com/) is great, to the point I bought a lifetime subscription
 * I use AnkiApp for my **language learning** (flashcards) - quite an old fashioned design but honestly this is trumped by the quality and range of features. I also use [Seedlang](https://www.easygerman.org/app) which is really well made

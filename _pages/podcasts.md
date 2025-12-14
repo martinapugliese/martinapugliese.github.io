@@ -17,7 +17,7 @@ AFAIK there isn't a tool you can use to review podcasts (something à la goodrea
 * [ITA] [Cose molto umane](https://www.cosemoltoumane.it/) - di G Kesten, io lo support su Patreon perché fa un lavoro eccellente. Kesten ne fa anche altri, tra parentesi, di podcast
 * [ITA] [Avanti Veloce](https://www.raiplaysound.it/programmi/avantiveloce-viaggionelladhd), sempre di G Kesten e prodotto per RadioRai (sta su tutte le piattaforme), un podcast per capire meglio l'ADHD
 
-## History & Stories
+## History & Linguistics
 
 * Empire - by A Anand & W Dalrymple, it's great and good fun. The history of empires, in seasons
 * The rest is history - T Holland & D Sandbrook
@@ -26,6 +26,7 @@ AFAIK there isn't a tool you can use to review podcasts (something à la goodrea
 * [The big steal](https://www.thebigstealpodcast.com/) (finished?): by G Esler, a very interesting reconstruction of the aftermath of the fall of the Soviet Union that led today's plutocracy
 * [Wind of change](https://crooked.com/podcast-series/wind-of-change/) (2020, finished): a bit out there but I went with it as it's by P Radden Keffe, whose investigative journalism work I appreciate. It follows a crazy rumour whereby Scorpion's "Wind of change" was written/commissioned by the CIA for propaganda. It's interesting - I hate conspiracies and would have never chosen this but despite the wild story you learn a lot about the times
 * [ITA] [L'invasione](https://www.ilpost.it/podcasts/l-invasione/) - un podcast in 5 puntate (de Il Post) sulle lingue indoeuropee e la loro storia, bellissimo
+* [A language I love is ...](https://dannybate.com/podcast/), by D L Bate, explores one language at a time with experts, wonderful
 
 ## Science
 

@@ -16,12 +16,12 @@ I am a physicist by studies and I've been working in/with **data science/ML/AI**
 
 * My data stories (hand-drawn data visualisations with storytelling, mostly cheerful themes and curios) are [here](https://martinapugliese.github.io/categories/#data/)
 * [Askademic](https://github.com/martinapugliese/askademic) - an AI tool (agent) to help you find scientific research, summarise it, get answers, this was done with my friend [Bernardo](https://github.com/bernomone)
-* [CityBreaking](https://bernomone.github.io/citybreaking/) data analyses and reflections on overtourism, again with Bernardo, it's a series of blog posts
-* [ITA] [Note sul tedesco](https://martinapugliese.gitbook.io/tedesco/il-progetto/readme) A GitBook with my notes on the German grammar, basically the digital version of hand-written ones - this is in development, I slowly add pages to it
+* [CityBreaking](https://bernomone.github.io/citybreaking/) - data analyses and reflections on overtourism, again with Bernardo, it's a series of blog posts
+* [ITA] [Note sul tedesco](https://martinapugliese.gitbook.io/tedesco/il-progetto/readme) - A GitBook with my notes on the German grammar, basically the digital version of hand-written ones - this is in development, I slowly add pages to it
 
 I am also a frantic [list-maker](https://martinapugliese.github.io/material/) and [quote-collector](https://martinapugliese.github.io/quotes/).
 
-## Older projects 
+## Older projects 
 
 * [under restructuring, though likely it'll be a slow burn] [Tales of Science and Data](https://github.com/martinapugliese/doodling-data-cards) - notes about data science, ML and stuff in between - this has passed through several phases as a series of Jupyter notebooks, a GitBook, blog posts (which are here) ..., I'm thinking what to do with it
 

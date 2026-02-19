@@ -213,6 +213,18 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 > It is a peculiar hallmark of the American economy that you can produce a dangerous product and effectively off-load any legal liability for whatever destruction that product may cause by pointing to the individual responsibility of the consumer.<br>
 -- P R Keefe, "Empire of Pain" 
 
+> You can't make tragedies without social instability
+-- A Huxley, "Brave New World"
+
+> Actual happiness always looks pretty squalid in comparison with the over-compensation for misery. And, of course, stability isn't nearly so spectacular as instability. Happiness is never grand.
+-- A Huxley, "Brave New World"
+
+> Our Ford himself did a great deal to shift the emphasis from truth and beauty to comfort and happiness. Mass production demanded the shift.
+-- A Huxley, "Brave New World"
+
+> One believes things because one has been conditioned to believe them. Finding bad reasons for what one believes for other bad reasons- that's philosophy. People believe in God because they've been conditioned to believe in God.
+-- A Huxley, "Brave New World"
+
 ## God
 
 > The proofs that God does not exist are very strong, but in lots of people they are not as strong as the feeling that He does.<br>

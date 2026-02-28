@@ -474,16 +474,16 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 > A really efficient totalitarian state would be one in which the all-powerful executive of political bosses and their army of managers control a population of slaves who do not have to be coerced, because they love their servitude.<br>
 -- A Huxley, 1946 preface to "Brave New World"
 
-> You can't make tragedies without social instability
+> You can't make tragedies without social instability.<br>
 -- A Huxley, "Brave New World"
 
-> Actual happiness always looks pretty squalid in comparison with the over-compensation for misery. And, of course, stability isn't nearly so spectacular as instability. Happiness is never grand.
+> Actual happiness always looks pretty squalid in comparison with the over-compensation for misery. And, of course, stability isn't nearly so spectacular as instability. Happiness is never grand.<br>
 -- A Huxley, "Brave New World"
 
-> Our Ford himself did a great deal to shift the emphasis from truth and beauty to comfort and happiness. Mass production demanded the shift.
+> Our Ford himself did a great deal to shift the emphasis from truth and beauty to comfort and happiness. Mass production demanded the shift.<br>
 -- A Huxley, "Brave New World"
 
-> One believes things because one has been conditioned to believe them. Finding bad reasons for what one believes for other bad reasons- that's philosophy. People believe in God because they've been conditioned to believe in God.
+> One believes things because one has been conditioned to believe them. Finding bad reasons for what one believes for other bad reasons- that's philosophy. People believe in God because they've been conditioned to believe in God.<br>
 -- A Huxley, "Brave New World"
 
 ## Time

@@ -67,7 +67,7 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 -- K Harris, "Lands of lost borders"
 
 
-## Freedom, lack thereof & autocracy
+## Freedom & lack thereof
 
 > And this I believe: that the free, exploring mind of the individual human is the most valuable thing in the world.<br>
 -- J Steinbeck, "East of Eden"

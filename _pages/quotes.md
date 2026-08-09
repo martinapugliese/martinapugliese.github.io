@@ -31,6 +31,9 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 > In Southern California it didn't make any difference anyhow where you went: there was always the same McDonaldburger place over and over; like a circular strip that turned past you as you pretended to go somewhere. And when finally you got hungry and went to the McDonaldburger place and bought a McDonald's hamburger, it was the one they sold you last time and the time before that and so forth, back to before you were born, and in addition bad people - liars - said it was made out of turkey gizzards anyhow. They had by now, according to their sign, sold the same original burger fifty billion times. He wondered it if was to the same person. Life in Anaheim, California, was a commercial for itself, endlessly replayed. Nothing changed; it just spread out farther and farther in the form of neon ooze. What there was always more of had been congealed into permanence long ago, as if the automatic factory that cranked out these objects had jammed in the _on_ position. How the land became plastic, he thought, remembering the fairly tale "How the Sea became Salt.". SOmeday, he thought, it'll be mandatory that we all sell the McDonald's hamburger as well as buy it; we'll sell it back and forth to each other forever from our living room. That way we won't even have to go outside.<br>
 -- P K Dick, "A Scanner Darkly "
 
+> They think if people can possess enough things they will be content to live in prison.<br>
+-- U K Le Guin, "The dispossessed"f
+
 
 ## Creativity & Wonder
 
@@ -217,6 +220,9 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 > A really efficient totalitarian state would be one in which the all-powerful executive of political bosses and their army of managers control a population of slaves who do not have to be coerced, because they love their servitude.<br>
 -- A Huxley, 1946 preface to "Brave New World"
 
+> Our men and women are free, possessing nothing they are free. And you the possessors are possessed. You are all in jail. Each alone, solitary, with a heap of what he owns. You live in prison, die in prison.
+-- U K Le Guin, "The dispossessed"
+
 ## God
 
 > The proofs that God does not exist are very strong, but in lots of people they are not as strong as the feeling that He does.<br>
@@ -382,7 +388,7 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 > The scheming of Britain, France and the United States over oil, politics and power helped create and fuel the problems of the Middle East for decades afterwards. Nations and peoples were used as assets or weapons. Lines were drawn in the sand, blown away and drawn again. All of this was done with precious little foresight about where it might lead<br>
 -- A von Tunzelmann, "Blood and Sand" [talking about the Suez crisis of 1956]
 
-> The United States and the Soviet Union were two nations themselves formed by revolution, each of which revered its revolutionary forebears. Yet now that their founding revolutions had settled into power and were beginning to expand, neither seemed able to imagine that new revolutions might spring up against them. The believed they were different from the old European empires. They believed they were exceptional.
+> The United States and the Soviet Union were two nations themselves formed by revolution, each of which revered its revolutionary forebears. Yet now that their founding revolutions had settled into power and were beginning to expand, neither seemed able to imagine that new revolutions might spring up against them. The believed they were different from the old European empires. They believed they were exceptional.<br>
 -- A von Tunzelmann, "Blood and Sand"
 
 > When power is scarce, a little of it is tempting.<br>
@@ -471,6 +477,12 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 
 > Che poi Medioevo lo dite voi, io dico milleduecentottantaquattro, poi voi lo chiamerete come vi pare, le epoche gli si dà nome dopo. Le dittature, ad esempio, se ne parla male solo dopo, intanto tutti se le puppano. Volete vedere?<br>
 -- S Benni, "Le Beatrici"
+
+> You can't crush ideas by suppressing them. You can only crush them by ignoring them. By refusing to think - refusing to change.<br>
+-- U K Le Guin, "The dispossessed"
+
+> Coercion is the least efficient means of obtaining order.<br>
+-- U K Le Guin, "The dispossessed"
 
 ## Time
 

@@ -32,7 +32,7 @@ Categories are just for keeping order and are semi-continuously updated. The rel
 -- P K Dick, "A Scanner Darkly "
 
 > They think if people can possess enough things they will be content to live in prison.<br>
--- U K Le Guin, "The dispossessed"f
+-- U K Le Guin, "The dispossessed"
 
 
 ## Creativity & Wonder

@@ -14,7 +14,7 @@ AFAIK there isn't a tool you can use to review podcasts (something à la goodrea
 * [Today, Explained](https://www.vox.com/today-explained): from the Vox team of the Explained Netflix documentary show, dissects news and current affairs
 * [Cautionary Tales](https://www.pushkin.fm/podcasts/cautionary-taless), narrated by Tim Harford, is about historical scams, frauds, intrigues & people's gullibility. Delightful.
 * [ITA] [Certe Cose](https://www.ilpost.it/2022/04/22/certe-cose/) (terminato?): podcast di C Alessi realizzato con il Post, storia d'Italia attraverso oggetti trovati in elenchi che caratterizzano alcuni eventi
-* [ITA] [Cose molto umane](https://www.cosemoltoumane.it/) - di G Kesten, io lo support su Patreon perché fa un lavoro eccellente. Kesten ne fa anche altri, tra parentesi, di podcast
+* [ITA] [Cose molto umane](https://www.cosemoltoumane.it/) - di G Kesten, io lo supporto su Patreon perché fa un lavoro eccellente. Kesten ne fa anche altri, tra parentesi, di podcast
 * [ITA] [Avanti Veloce](https://www.raiplaysound.it/programmi/avantiveloce-viaggionelladhd), sempre di G Kesten e prodotto per RadioRai (sta su tutte le piattaforme), un podcast per capire meglio l'ADHD
 
 ## History & Linguistics

@@ -2,6 +2,8 @@
 title: Elizabeth Evelyn Wright
 tags:
   - pathbreakers
+  - education
+  - women
 categories: data
 excerpt: How a black woman from Georgia founded a university in 1897
 ---
